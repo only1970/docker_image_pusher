@@ -3,3 +3,6 @@ calico/cni:v3.18.0
 calico/pod2daemon-flexvol:v3.18.0
 calico/node:v3.18.0
 calico/kube-controllers:v3.18.0
+flannel/flannel:v0.25.6
+flannel/flannel-cni-plugin:v1.5.1-flannel2
+flannel/flannel:v0.25.6
