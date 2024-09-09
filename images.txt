@@ -7,3 +7,4 @@ calico/kube-controllers:v3.18.0
 flannel/flannel:v0.25.6
 flannel/flannel-cni-plugin:v1.5.1-flannel2
 flannel/flannel:v0.25.6
+ollama/ollama
