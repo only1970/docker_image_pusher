@@ -11,5 +11,4 @@ ollama/ollama
 redis/redisinsight:2.50.0
 redis/redisinsight
 redislabs/redisinsight:1.14.0
-redislabs/redisinsight:2.54.0
-
+redislabs/redisinsight:2.50.0
