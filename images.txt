@@ -10,3 +10,4 @@ flannel/flannel:v0.25.6
 ollama/ollama
 redis/redisinsight:2.50.0
 redis/redisinsight
+redislabs/redisinsight:1.14.0
