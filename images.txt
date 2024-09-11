@@ -8,7 +8,4 @@ flannel/flannel:v0.25.6
 flannel/flannel-cni-plugin:v1.5.1-flannel2
 flannel/flannel:v0.25.6
 ollama/ollama
-redis/redisinsight:2.50.0
-redis/redisinsight
 redislabs/redisinsight:1.14.0
-redislabs/redisinsight:2.50.0
