@@ -11,3 +11,4 @@ ollama/ollama
 redislabs/redisinsight:1.14.0
 istio/pilot:1.23.1-distroless
 istio/pilot:1.23.1
+docker.io/istio/proxyv2:1.23.1
