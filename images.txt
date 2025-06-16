@@ -24,4 +24,4 @@ docker.io/istio/examples-bookinfo-productpage-v1:1.20.1
 wordpress:latest
 bitnami/wordpress-nginx:latest
 easysoft/zentao:21.4
-eiyu563/prometheus-alert:v4.9.1
+helloz/onenav:1.1.3
